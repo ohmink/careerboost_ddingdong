@@ -13,15 +13,15 @@
 
 ### 참가자
 * 웹
-  * 박은애 [프로젝트]()
+  * 박은애 [프로젝트](https://github.com/parkeunae/careerboost_ddingdong)
 
 * 모바일
   * 진승언 [프로젝트]()
-  * 이용재 [프로젝트]()
+  * 이용재 [프로젝트](https://github.com/dididy/careerboost_ddingdong)
   * 김민석 [프로젝트]()
   * 이윤지 [프로젝트]()
   * 김도영 [프로젝트]()
-  * 장준희 [프로젝트]()
+  * 장준희 [프로젝트](https://github.com/icd0422/careerboost_ddingdong)
   * 권오민 [프로젝트]()
 
 * 웹UI
