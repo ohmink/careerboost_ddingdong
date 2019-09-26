@@ -18,11 +18,10 @@
 * 모바일
   * 진승언 [프로젝트](https://github.com/mtjin/careerboost_ddingdong)
   * 이용재 [프로젝트](https://github.com/dididy/careerboost_ddingdong)
-  * 김민석 [프로젝트]()
-  * 이윤지 [프로젝트]()
-  * 김도영 [프로젝트]()
+  * 이윤지 [프로젝트](https://github.com/zion830/careerboost_ddingdong)
+  * 김도영 [프로젝트](https://github.com/elliot-Kim/careerboost_ddingdong)
   * 장준희 [프로젝트](https://github.com/icd0422/careerboost_ddingdong)
-  * 권오민 [프로젝트]()
+  * 권오민 [프로젝트](https://github.com/ohmink/careerboost_ddingdong)
 
 * 웹UI
   * 백지영 [프로젝트]()
